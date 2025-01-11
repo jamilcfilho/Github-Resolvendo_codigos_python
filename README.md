@@ -15,7 +15,6 @@ O que aprenderemos?
 * Manipulação de Strings (string)
 * Concatenação
 * Entrada de dados
-* Utilização eficiente do Github Copilot
 
 <br>
 
@@ -30,7 +29,6 @@ O que aprenderemos?
 * Números Inteiros (int)
 * Múltiplas repetições
 * Entrada de dados
-* Aproveitar as sugestões do Github Copilot
 
 <br>
 
@@ -43,7 +41,6 @@ O que aprenderemos?
 
 * Operações Matemáticas Básicas
 * Entrada de dados
-* Utilização eficiente do Github Copilot
 
 <br>
 
@@ -55,7 +52,7 @@ Uma dica é: Utilize condicionais para realizar a verificação e, se possível,
 O que aprenderemos?
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
+* Exploração do uso de uma ferramenta de IA, como o Github Copilot ou ChatGPT, para otimizar a estrutura do código.
 
 
 <br>
